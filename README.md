@@ -44,7 +44,7 @@ A modern Android application that allows users to browse video games by genre us
 
 ## 📸 Screenshots
 
-| Games List | Game Details | Search & Filter |
+| Games List | Search & Filter | Game Details |
 |-----------|-------------|----------------|
 | ![Games List](https://github.com/user-attachments/assets/2b331c99-a74c-4429-8471-486d0e3dc5b7) | ![Game Details](https://github.com/user-attachments/assets/abf46d63-8e51-4e09-9a0d-207024f5132a) | ![Search & Filter](https://github.com/user-attachments/assets/4a6bd949-7e7d-438e-820a-491f6ee28c6b) |
 
