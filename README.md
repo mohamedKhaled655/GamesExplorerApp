@@ -51,4 +51,4 @@ A modern Android application that allows users to browse video games by genre us
 
 
 
-## 👨‍💻 Developed by : Mohamed Khaled
+## 👨‍💻 Developed by: Mohamed Khaled
