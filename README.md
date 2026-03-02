@@ -1,4 +1,4 @@
-# 🎮 Games Explorer App
+# 🎮 Games Explorer App 
 
 A modern Android application that allows users to browse video games by genre using the RAWG API. Built with Clean Architecture, MVVM pattern, and Jetpack Compose.
 
